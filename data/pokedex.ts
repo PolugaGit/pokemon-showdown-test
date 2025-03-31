@@ -3435,7 +3435,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	croconaw: {
 		num: 159,
 		name: "Croconaw",
-		types: ["Water"],
+		types: ["Water", "Dragon"],
 		genderRatio: { M: 0.875, F: 0.125 },
 		baseStats: { hp: 65, atk: 80, def: 80, spa: 59, spd: 63, spe: 58 },
 		abilities: { 0: "Torrent", H: "Sheer Force" },
